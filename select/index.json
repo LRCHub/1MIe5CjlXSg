@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "それじゃ無理（feat. NORIKIYO、AKLO、R-指定）",
+  "base_artist": "テークエム",
+  "createdAt": "2026-02-08T00:52:10.210773Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "それじゃ無理 (feat. R-指定, NORIKIYO & AKLO)",
+      "artist": "テークエム",
+      "has_synced": false,
+      "path": "select/pl_01_それじゃ無理_(feat._R-指定,_NORIKIYO_&_AKLO)_テークエム.txt"
+    }
+  ]
+}
